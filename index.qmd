@@ -13,3 +13,6 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
+# More about me...
+I'm about to graduate my first undergraduate study from University of Toronto, and currenrly working on several projects relate to CS/Analysis fields. Outside of my academic work I have a huge interest in investment (Stocks, Cryptocurrency). This interest also inspired me to work on the "Crpytocurrency Auto-Trader" on my [resume](Henry (Hyungsoo) Park Resume.pdf).
