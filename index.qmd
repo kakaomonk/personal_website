@@ -8,11 +8,12 @@ Currently, I am studying studying Mathmatics, Computer Science, and Statistics a
 
 Here are my [resume](Henry (Hyungsoo) Park Resume.pdf) and [CV](Henry (Hyungsoo) Park Resume.pdf).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
 ```{r}
-1 + 1
+
 ```
 
 # More about me...
 I'm about to graduate my first undergraduate study from University of Toronto, and currenrly working on several projects relate to CS/Analysis fields. Outside of my academic work I have a huge interest in investment (Stocks, Cryptocurrency). This interest also inspired me to work on the "Crpytocurrency Auto-Trader" on my [resume](Henry (Hyungsoo) Park Resume.pdf).
+
+# My goal
+I decided to study IT related field(s) because of my personal interests, but I've also found my interest in developing projects. I am a person who like to interact with others and resolve several problems in many factors. T
