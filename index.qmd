@@ -6,14 +6,10 @@ Welcome to my website, I am Henry Park!
 
 Currently, I am studying studying Mathmatics, Computer Science, and Statistics at University of Toronto.
 
-Here are my [resume](Henry (Hyungsoo) Park Resume.pdf) and [CV](Henry (Hyungsoo) Park Resume.pdf).
-
-```{r}
-
-```
+Here are my [resume](Henry (Hyungsoo) Park Resume.pdf) and [CV](Hyungsoo Park Cover Letter General.pdf).
 
 # More about me...
 I'm about to graduate my first undergraduate study from University of Toronto, and currenrly working on several projects relate to CS/Analysis fields. Outside of my academic work I have a huge interest in investment (Stocks, Cryptocurrency). This interest also inspired me to work on the "Crpytocurrency Auto-Trader" on my [resume](Henry (Hyungsoo) Park Resume.pdf).
 
 # My goal
-I decided to study IT related field(s) because of my personal interests, but I've also found my interest in developing projects. I am a person who like to interact with others and resolve several problems in many factors. T
+I decided to study IT related field(s) because of my personal interests, but I've also found my interest in developing projects. I am a person who like to interact with others and resolve several problems in many factors. 
